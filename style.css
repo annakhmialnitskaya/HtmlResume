@@ -1,0 +1,56 @@
+body {
+            background: gray;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 14px;
+}
+ 
+#container {
+            background: #FFFFFF;
+            margin: 30px auto;
+            width: 900px;
+            height: 1100px;
+}
+ 
+#header {
+            height: 100px;
+            width: 900px;			
+			text-align:  center;					    
+}
+div.headerTitle {
+	height: 90px;
+	line-height: 90px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+  
+#left {
+            float: left;
+            width: 250px;
+            height: 900px;
+}
+ 
+#content {
+            float: right;
+            width: 650px;
+            height: 900px;
+}
+
+span{
+	font-weight: bold;
+}
+.title{
+	font-size: 16px;
+}
+ 
+#footer {
+            height: 50px;
+            width: 900px;
+			text-align: center;
+			
+}
+div.footerEnd{
+	text-align: center;
+	font-weight: bold;
+}
